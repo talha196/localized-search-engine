@@ -3,7 +3,7 @@
 This project is a simplified implementation of google's orignal search algorithm for only single word searches: http://infolab.stanford.edu/~backrub/google.html
 
 This project excludes crawling the web and the google's page rank method. Instead we use the simple wiki english only dataset dump as simplified search pool for this algorithm 
-Download link for wikipedia database dumps: https://dumps.wikimedia.org/simplewiki/20210501/
+Download link for wikipedia database dumps: https://dumps.wikimedia.org/simplewiki/
 
 The first step is to convert the simplewiki dataset from xml format to .txt format. This can be easily done using the wp2txt utility as follows. Download the latest simplewikii dataset and run the following commands:
 ```linux
