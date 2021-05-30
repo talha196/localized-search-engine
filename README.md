@@ -1,4 +1,4 @@
-# localized_search_engine
+# Single Word Search Engine for Localized Datasets 
 
 This project is a simplified implementation of google's orignal search algorithm for only single word searches: http://infolab.stanford.edu/~backrub/google.html
 
