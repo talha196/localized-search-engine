@@ -12,7 +12,7 @@ gem install wp2txt
 wp2txt --input-file  simplewiki-yourversion-pages-articles.xml.bz2
 cat * > simple_wiki_articles.txt
 ```
-Two different kinds of hash maps are used in this implementation because of their different kind of optimal points. Installation of sparse hash maps libraries and boost c++ libraries are required on the system.
+Two different kinds of hash maps are used in this implementation because of their different kind of optimality. Installation of sparse hash maps libraries and boost c++ libraries are required on the system.
 ```C++
 google::sparse_hash_map
 google::dense_hash_map
